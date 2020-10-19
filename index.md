@@ -14,6 +14,6 @@
  </body>
      <script type="text/javascript">
  				//将这个地址修改成需要的博客地址
-         window.location.href = "https://https://www.cnblogs.com/jiucai"; 
+         window.location.href = "https://www.cnblogs.com/jiucai"; 
      </script>
  </html>
